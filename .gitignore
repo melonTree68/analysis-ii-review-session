@@ -1,0 +1,14 @@
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.gz
+*.toc
+*.jpg
+
+# .tex source codes are kept private to me
+*.tex
+
+# I am not authorized to upload exam papers online
+去年*.pdf
